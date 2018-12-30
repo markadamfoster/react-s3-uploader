@@ -1,3 +1,5 @@
+**Note: this fork adds the "expire" value to the options object (in `s3router.js`) (to allow for file sets that take >60 sec of upload time)**
+
 react-s3-uploader
 ===========================
 
